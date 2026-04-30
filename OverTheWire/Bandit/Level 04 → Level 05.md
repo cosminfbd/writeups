@@ -8,8 +8,6 @@ The password for the next level is stored in the only human-readable file in the
 
 [https://www.geeksforgeeks.org/linux-unix/file-command-in-linux-with-examples/](https://www.geeksforgeeks.org/linux-unix/file-command-in-linux-with-examples/)
 
-[image.png]
-
 ```bash
 bandit4@bandit:~$ ls -la
 total 24

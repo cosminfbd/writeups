@@ -20,8 +20,6 @@ bandit11@bandit:~$ cat data.txt
 Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4
 ```
 
-[image.png]
-
 `tr` nu ma lasa sa fac `a-z ⇒ n-m` pt ca n > m, asa ca facem pe rand `a-m ⇒ n-z` & `n-z ⇒ a-m` + majuscule
 
 ```bash

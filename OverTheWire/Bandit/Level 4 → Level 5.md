@@ -8,7 +8,7 @@ The password for the next level is stored in the only human-readable file in the
 
 [https://www.geeksforgeeks.org/linux-unix/file-command-in-linux-with-examples/](https://www.geeksforgeeks.org/linux-unix/file-command-in-linux-with-examples/)
 
-![image.png](Level%204%20%E2%86%92%20Level%205/image.png)
+![image.png](OverTheWire/Bandit/IMAGES/Level 4 → Level 5/image.png)
 
 ```bash
 bandit4@bandit:~$ ls -la

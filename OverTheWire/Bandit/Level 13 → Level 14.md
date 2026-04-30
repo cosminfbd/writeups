@@ -65,7 +65,7 @@ Connection to bandit.labs.overthewire.org closed.
 [aici cere parola pt ssh, apoi muta fisierul]
 ```
 
-Fiind o cheie privata, trebuie sa fie securizata: nu dam permisii publice de citire, etc.
+Fiind o cheie privata, trebuie sa fie securizata: nu dam permisiuni publice de citire, etc.
 
 ```bash
 ~$ cd /home/coswin/OverTheWire/level13_14/ 

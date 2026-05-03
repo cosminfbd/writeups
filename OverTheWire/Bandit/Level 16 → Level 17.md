@@ -185,7 +185,7 @@ read R BLOCK
 ^C
 ```
 
-Perfect, are SSL. Ne conectam la el si ii trimitem flag-ul:
+S-a realizat un handshake, deci are SSL. Ne conectam la el si ii trimitem flag-ul:
 ```bash
 bandit16@bandit:~$ ncat --ssl localhost 31518
 kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
@@ -357,7 +357,7 @@ read R BLOCK
 ^C
 ```
 
-⬆️ Acesta are SSL si ne conectam la el:
+⬆️ Inca un handshake! Are SSL si ne conectam la el:
 ```bash
 bandit16@bandit:~$ ncat --ssl localhost 31790
 kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx

@@ -51,7 +51,7 @@ kAWpXbv5tbkkzbS0eaLPTKgLzavXtQoTtKwrjpolHKIHUz6Wu+n4abfAIRFubOdN
 ```
 
 ⬆️ Aceasta este cheia RSA cu care ne vom conecta la urmatorul nivel.
-Vom copia cheia pe computer-ul local.
+Vom copia cheia local.
 
 ```bash
 bandit13@bandit:~$ realpath sshkey.private
@@ -60,7 +60,9 @@ bandit13@bandit:~$ realpath sshkey.private
 bandit13@bandit:~$ exit
 logout
 Connection to bandit.labs.overthewire.org closed.
-
+```
+(LOCAL):
+```bash
 ~$ scp -P 2220 bandit13@bandit.labs.overthewire.org:/home/bandit13/sshkey.private /home/coswin/OverTheWire/level13_14/
 [aici cere parola pt ssh, apoi muta fisierul]
 ```

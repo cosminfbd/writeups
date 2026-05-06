@@ -63,8 +63,10 @@ drwxr-xr-x 150 root     root     4096 Apr  3 15:20 ..
 -rw-r-----   1 bandit19 bandit18 3874 Apr  3 15:17 .bashrc
 -rw-r--r--   1 root     root      807 Mar 31  2024 .profile
 -rw-r-----   1 bandit19 bandit18   33 Apr  3 15:17 readme
+
 cat readme
 cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
+
 exit
 
 
